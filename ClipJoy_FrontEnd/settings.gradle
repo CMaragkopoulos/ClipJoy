@@ -1,0 +1,2 @@
+rootProject.name = "ClipJoy_FrontEnd"
+include ':app'

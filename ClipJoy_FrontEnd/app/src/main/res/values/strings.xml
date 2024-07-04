@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">ClipJoy</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="Hello">SELECT YOUR IDENTITY</string>
+    <string name="consumer">Consumer</string>
+    <string name="publisher">Publisher</string>
+
+    <string name="Hello_Consumer">CONSUMER MENU</string>
+    <string name="consumerChannelName">Videos by ChannelName</string>
+    <string name="Yes">YES </string>
+    <string name="No">NO </string>
+    <string name="consumerHashTag">Videos by HashTag</string>
+    <string name="consumerSubChannelName">Subscribe to a ChannelName</string>
+    <string name="consumerSubHashTag">Subscribe to a HashTag</string>
+    <string name="sndBtn">Send</string>
+    <string name="chooseBtn">CHOOSE VIDEO</string>
+    <string name="recordBtn">Record</string>
+    <string name="continueBtn">Continue</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="ChannelName">Write a ChannelName</string>
+    <string name="VideoName">Write a name for your video</string>
+    <string name="HashTag">Write a HashTag</string>
+    <string name="searchChannelName">ChannelName: </string>
+    <string name="searchHashtag">Hashtag: </string>
+    <string name="pleaseWait">Please wait until your menu is ready! </string>
+    <string name="videoName">Video name: </string>
+    <string name="searchHashTag">HashTag: </string>
+    <string name="subscribeChannelName">Subscribe to a Channel </string>
+    <string name="subscribeHashTag">Subscribe to a HashTag </string>
+    <string name="ChooseVideo">Choose a video from your Gallery </string>
+    <string name="SureVideo">Are you sure you want to delete this video? </string>
+    <string name="RecordVideo">Press the button to start recording </string>
+    <string name="AddHashtags">Add hashtags(use spacebar to add new one) </string>
+    <string name="Done">Done </string>
+
+
+    <string name="Hello_Publisher">PUBLISHER MENU</string>
+    <string name="SetChannelName">Set a Name to your Channel</string>
+    <string name="publisherSet">Set a Name to your Channel</string>
+    <string name="publisherUpload">Upload a new Video to your Channel</string>
+    <string name="publisherDelete">Delete a Video from your Channel</string>
+    <string name="publisherDisconnect">Disconnect</string>
+    <string name="publisherRecord">Record</string>
+
+    <string name="DeleteVideo">Type the name of the video you want to delete</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

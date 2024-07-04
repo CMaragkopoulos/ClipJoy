@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.clipjoy">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE"
+        tools:ignore="ScopedStorage" />
+
+    <uses-feature
+        android:name="android.hardware.camera"
+        android:required="true"
+        android:usesCleartextTraffic="true"
+        tools:ignore="UnusedAttribute" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:requestLegacyExternalStorage="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Distributed_Demo">
+        <activity android:name="com.example.clipjoy.VideosMenuHashtag" />
+        <activity android:name="com.example.clipjoy.VideosMenu" />
+        <activity android:name="com.example.clipjoy.SelectNameOfVideoRecord" />
+        <activity android:name="com.example.clipjoy.VideoInfoDelete" />
+        <activity android:name="com.example.clipjoy.SelectNameOfVideo" />
+        <activity android:name="com.example.clipjoy.RecordVideo" />
+        <activity android:name="com.example.clipjoy.DeleteVideo" />
+        <activity android:name="com.example.clipjoy.AddHashtagsToVideo" />
+        <activity android:name="com.example.clipjoy.UploadVideo" />
+        <activity android:name="com.example.clipjoy.SubscribeHasTag" />
+        <activity android:name="com.example.clipjoy.SetNameToChannel" />
+        <activity android:name="com.example.clipjoy.SubscribeChannelName" />
+        <activity android:name="com.example.clipjoy.SearchHashTag" />
+        <activity android:name="com.example.clipjoy.ConsumerActivityHashTag" />
+        <activity android:name="com.example.clipjoy.VideoPlayer" />
+        <activity android:name="com.example.clipjoy.SearchChannelName" />
+        <activity android:name="com.example.clipjoy.ConsumerActivityChannelName" />
+        <activity android:name="com.example.clipjoy.PublisherActivity" />
+        <activity android:name="com.example.clipjoy.ConsumerActivity" />
+        <activity
+            android:name="com.example.clipjoy.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.Distributed_Demo.NoActionBar"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
