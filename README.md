@@ -23,13 +23,13 @@ Here are some screenshots of ClipJoy in action:
 ## Screenshots
 
 ## Menu
-<img src="./images/publisherMenu.jpg" alt="Main Menu" width="200"/> <img src="./images/publisherMenu2.jpg" alt="Publisher Menu" width="200"/> <img src="./images/consumerMenu.PNG" alt="Consumer Menu" width="200"/> <img src="./images/publisherChannel.jpg" alt="Publisher Channelname" width="200"/> <img src="./images/publisherAddHashtags.jpg" alt="Publisher Hashtags" width="200"/>
+<img src="./images/publisherMenu.jpg" alt="Main Menu" width="180"/> <img src="./images/publisherMenu2.jpg" alt="Publisher Menu" width="180"/> <img src="./images/consumerMenu.PNG" alt="Consumer Menu" width="180"/> <img src="./images/publisherChannel.jpg" alt="Publisher Channelname" width="180"/> 
 
 ## Publisher
-<img src="./images/publisherName.jpg" alt="Name Video" width="200"/> <img src="./images/publisherGallery2.jpg" alt="Publisher Gallery" width="200"/> <img src="./images/publisherGallery.jpg" alt="Publisher Gallery Opened" width="200"/> <img src="./images/publisherDelete.jpg" alt="Publisher Delete" width="200"/> <img src="./images/publisherRecord1.jpg" alt="Publisher Record" width="200"/>
+<img src="./images/publisherGallery2.jpg" alt="Publisher Gallery" width="180"/> <img src="./images/publisherGallery.jpg" alt="Publisher Gallery Opened" width="180"/> <img src="./images/publisherDelete.jpg" alt="Publisher Delete" width="180"/> <img src="./images/publisherRecord1.jpg" alt="Publisher Record" width="180"/>
 
 ## Consumer
-<img src="./images/consumerChannelName.PNG" alt="Consumer Channel Name" width="200"/> <img src="./images/consumerHashtagPlaying.PNG" alt="Consumer Watching Video" width="200"/> <img src="./images/consumerHashtag.PNG" alt="Consumer Hashtag" width="200"/> <img src="./images/consumerSubscribe.PNG" alt="Consumer Subscribe" width="200"/> <img src="./images/consumerSubscribePopup.PNG" alt="Consumer Subscribe Popup" width="200"/>
+<img src="./images/consumerChannelname.PNG" alt="Consumer Channel Name" width="180"/> <img src="./images/consumerHashtagPlaying.PNG" alt="Consumer Watching Video" width="180"/> <img src="./images/consumerHashtag.PNG" alt="Consumer Hashtag" width="180"/> <img src="./images/consumerSubscribePopup.PNG" alt="Consumer Subscribe Popup" width="180"/>
 
 
 ## Setup Instructions
