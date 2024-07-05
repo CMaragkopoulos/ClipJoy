@@ -23,13 +23,13 @@ Here are some screenshots of ClipJoy in action:
 ## Screenshots
 
 ## Menu
-![Main Menu](./images/publisherMenu.jpg) ![Publisher Menu](./images/publisherMenu2.jpg) ![Consumer Menu](./images/consumerMenu.PNG) ![Publisher Channelname](./images/publisherChannel.jpg) ![Publisher Hashtags](./images/publisherAddHashtags.jpg)
+<img src="./images/publisherMenu.jpg" alt="Main Menu" width="200"/> <img src="./images/publisherMenu2.jpg" alt="Publisher Menu" width="200"/> <img src="./images/consumerMenu.PNG" alt="Consumer Menu" width="200"/> <img src="./images/publisherChannel.jpg" alt="Publisher Channelname" width="200"/> <img src="./images/publisherAddHashtags.jpg" alt="Publisher Hashtags" width="200"/>
 
 ## Publisher
-![Name Video](./images/publisherName.jpg) ![Publisher Gallery](./images/publisherGallery2.jpg) ![Publisher Gallery Opened](./images/publisherGallery.jpg) ![Publisher Delete](./images/publisherDelete.jpg) ![Publisher Record](./images/publisherRecord1.jpg)
+<img src="./images/publisherName.jpg" alt="Name Video" width="200"/> <img src="./images/publisherGallery2.jpg" alt="Publisher Gallery" width="200"/> <img src="./images/publisherGallery.jpg" alt="Publisher Gallery Opened" width="200"/> <img src="./images/publisherDelete.jpg" alt="Publisher Delete" width="200"/> <img src="./images/publisherRecord1.jpg" alt="Publisher Record" width="200"/>
 
 ## Consumer
-![Consumer Channel Name](./images/consumerChannelName.PNG) ![Consumer Watching Video](./images/consumerHashtagPlaying.PNG) ![Consumer Hashtag](./images/consumerHashtag.PNG) ![Consumer Subscribe](./images/consumerSubscribe.PNG) ![Consumer Subscribe Popup](./images/consumerSubscribePopup.PNG)
+<img src="./images/consumerChannelName.PNG" alt="Consumer Channel Name" width="200"/> <img src="./images/consumerHashtagPlaying.PNG" alt="Consumer Watching Video" width="200"/> <img src="./images/consumerHashtag.PNG" alt="Consumer Hashtag" width="200"/> <img src="./images/consumerSubscribe.PNG" alt="Consumer Subscribe" width="200"/> <img src="./images/consumerSubscribePopup.PNG" alt="Consumer Subscribe Popup" width="200"/>
 
 
 ## Setup Instructions
