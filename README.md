@@ -23,25 +23,13 @@ Here are some screenshots of ClipJoy in action:
 ## Screenshots
 
 ## Menu
-![Main Menu](./images/publisherMenu.jpg)
-![Publisher Menu](./images/publisherMenu2.jpg)
-![Consumer Menu](./images/consumerMenu.PNG)
-![Publisher Channelname](./images/publisherChannel.jpg)
-![Publisher Hashtags](./images/publisherAddHashtags.jpg)
+![Main Menu](./images/publisherMenu.jpg) ![Publisher Menu](./images/publisherMenu2.jpg) ![Consumer Menu](./images/consumerMenu.PNG) ![Publisher Channelname](./images/publisherChannel.jpg) ![Publisher Hashtags](./images/publisherAddHashtags.jpg)
 
 ## Publisher
-![Name Video](./images/publisherName.jpg)
-![Publisher Gallery](./images/publisherGallery2.jpg)
-![Publisher Gallery Opened](./images/publisherGallery.jpg)
-![Publisher Delete](./images/publisherDelete.jpg)
-![Publisher Record](./images/publisherRecord1.jpg)
+![Name Video](./images/publisherName.jpg) ![Publisher Gallery](./images/publisherGallery2.jpg) ![Publisher Gallery Opened](./images/publisherGallery.jpg) ![Publisher Delete](./images/publisherDelete.jpg) ![Publisher Record](./images/publisherRecord1.jpg)
 
 ## Consumer
-![Consumer Channel Name](./images/consumerChannelName.PNG)
-![Consumer Watching Video](./images/consumerHashtagPlaying.PNG)
-![Consumer Hashtag](./images/consumerHashtag.PNG)
-![Consumer Subscribe](./images/consumerSubscribe.PNG)
-![Consumer Subscribe Popup](./images/consumerSubscribePopup.PNG)
+![Consumer Channel Name](./images/consumerChannelName.PNG) ![Consumer Watching Video](./images/consumerHashtagPlaying.PNG) ![Consumer Hashtag](./images/consumerHashtag.PNG) ![Consumer Subscribe](./images/consumerSubscribe.PNG) ![Consumer Subscribe Popup](./images/consumerSubscribePopup.PNG)
 
 
 ## Setup Instructions
