@@ -2,6 +2,7 @@ package com.example.clipjoy;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.annotation.SuppressLint;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
@@ -64,6 +65,7 @@ public class SubscribeHasTag extends AppCompatActivity {
         public ObjectOutputStream outFromConsumer = null; //ροή για να στείλει δεδομένα στον Broker
         public ObjectInputStream inToConsumer = null; //ροή για να πάρει δεδομένα απο τον Broker
 
+        @SuppressLint("WrongThread")
         @Override
         protected Void doInBackground(String... voids) {
             Log.e("DEBUG SUBSCRIBE",voids[0]);
