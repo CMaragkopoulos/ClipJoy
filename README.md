@@ -51,7 +51,12 @@ The goal is to run your mobile phone as a Publisher, where it uploads videos fro
      - **BrokerMainInfo**: Takes port `1004`as an argument and browse to select `Distributed_Project.BrokerMain`.
      - **ConsumerMain**: Takes the path of a folder of your choosing as an argument (e.g., `C:\Users\Christos\Consumer\`) where you want to save the videos being published, and browse to select `ConsumerMain`.
      - Optionally, you can create `ConsumerMain2` with another path if needed.
-     **Note:**ConsumerMain isfor test purposes in case you don't want to run emulator, when you run it you see the options of Consumer
+     **Note:**ConsumerMain is for test purposes in case you don't want to run emulator, when you run it you see the options of Consumer
+       - **PublisherMain1**: Takes port `2001`as an argument and browse to select `Distributed_Project.PublisherMain`.
+         - **PublisherMain2**: Takes port `2002`as an argument and browse to select `Distributed_Project.PublisherMain`.
+- **PublisherMain3**: Takes port `2003`as an argument and browse to select `Distributed_Project.PublisherMain`.
+**Note:**PubliserMain is for test purposes so dont run it
+  
 
 3. **Configure IP Addresses:**
    - In `Variables.java`, set the correct IPs of the Brokers, found via the `ipconfig` command in cmd.
