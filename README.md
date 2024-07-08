@@ -47,15 +47,15 @@ The goal is to run your mobile phone as a Publisher, where it uploads videos fro
      - **BrokerMain1**: Takes the port `1001` as an argument and browse to select `Distributed_Project.BrokerMain`.
      - **BrokerMain2**: Takes port `1002`as an argument and browse to select `Distributed_Project.BrokerMain`..
      - **BrokerMain3**: Takes port `1003`as an argument and browse to select `Distributed_Project.BrokerMain`..
-     - **BrokerMainInfo**: Takes port `1004`as an argument and browse to select `Distributed_Project.BrokerMain`.
-     - **ConsumerMain**: Takes the path of a folder of your choosing as an argument (e.g., `C:\Users\Christos\Consumer\`) where you want to save the videos being published, and browse to select `ConsumerMain`.
-     - Optionally, you can create `ConsumerMain2` with another path if needed.
-     **Note:**ConsumerMain is for test purposes in case you don't want to run emulator, when you run it you see the options of Consumer
-     - **PublisherMain1**: Takes port `2001`as an argument and browse to select `Distributed_Project.PublisherMain`.
+     - **BrokerMainInfo**: Takes port `1004`as an argument and browse to select `Distributed_Project.BrokerMain`. 
+	 - **PublisherMain1**: Takes port `2001`as an argument and browse to select `Distributed_Project.PublisherMain`.
      - **PublisherMain2**: Takes port `2002`as an argument and browse to select `Distributed_Project.PublisherMain`.
      - **PublisherMain3**: Takes port `2003`as an argument and browse to select `Distributed_Project.PublisherMain`.
-     **Note:**PubliserMain is for test purposes so dont run it
-  
+     **Note:**PublisherMain is for test purposes so dont run it, but be sure to have these arguments!
+     - **ConsumerMain**: Takes the path of a folder of your choosing as an argument (e.g., `C:\Users\Christos\Consumer\`) where you want to save the videos being published, and browse to select `ConsumerMain`.
+     - Optionally, you can create `ConsumerMain2` with another path if needed.
+	 **Note:**ConsumerMain is for test purposes so dont run it, no need to have these arguments too!
+	 
 3. **Configure IP Addresses:**
    - In `Variables.java`, set the correct IPs of the Brokers, found via the `ipconfig` command in cmd.
    - Change `BROKER_IP_1`, `BROKER_IP_2`, and `BROKER_IP_3` to your IPv4 address (e.g., `192.168.1.13`).
@@ -65,7 +65,7 @@ The goal is to run your mobile phone as a Publisher, where it uploads videos fro
    - Navigate to `Run -> Run..` and start running BrokerMain1, BrokerMain2, BrokerMain3 and BrokerMainInfo, they will be ready to communicate with consumers and publishers for any message.
      
 
-   **Note:** Ignore `PublisherMain` and `ConsumerMain`, as they were used only to test the app before building the front-end on Android Studio.
+   **Note:** Ignore `PublisherMain` and `ConsumerMain`(no need to run them), as they were used only to test the app before building the front-end on Android Studio.
 
 ### Running the Front-End in Android Studio
 
