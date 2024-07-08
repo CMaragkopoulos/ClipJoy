@@ -51,9 +51,11 @@ The goal is to run your mobile phone as a Publisher, where it uploads videos fro
 	 - **PublisherMain1**: Takes port `2001`as an argument and browse to select `Distributed_Project.PublisherMain`.
      - **PublisherMain2**: Takes port `2002`as an argument and browse to select `Distributed_Project.PublisherMain`.
      - **PublisherMain3**: Takes port `2003`as an argument and browse to select `Distributed_Project.PublisherMain`.
+	 
      **Note:**PublisherMain is for test purposes so dont run it, but be sure to have these arguments!
      - **ConsumerMain**: Takes the path of a folder of your choosing as an argument (e.g., `C:\Users\Christos\Consumer\`) where you want to save the videos being published, and browse to select `ConsumerMain`.
      - Optionally, you can create `ConsumerMain2` with another path if needed.
+	 
 	 **Note:**ConsumerMain is for test purposes so dont run it, no need to have these arguments too!
 	 
 3. **Configure IP Addresses:**
