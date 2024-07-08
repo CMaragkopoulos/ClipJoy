@@ -1,12 +1,21 @@
+# Gradle files
 *.iml
 .gradle
 /local.properties
+
+# IntelliJ IDEA files
 /.idea/caches
 /.idea/libraries
 /.idea/modules.xml
 /.idea/workspace.xml
 /.idea/navEditor.xml
 /.idea/assetWizardSettings.xml
+
+# Default ignored files from .idea
+/.idea/shelf/
+/.idea/workspace.xml
+
+# Others
 .DS_Store
 /build
 /captures

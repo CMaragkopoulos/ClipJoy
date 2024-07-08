@@ -1,0 +1,27 @@
+# Gradle files
+.gradle
+/build/
+
+# IntelliJ IDEA files
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Logs
+/logs
+*.log
+
+# Temp files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Generated files
+/out/
